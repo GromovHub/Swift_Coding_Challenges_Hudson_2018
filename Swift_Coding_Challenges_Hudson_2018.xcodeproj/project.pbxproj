@@ -13,6 +13,7 @@
 		D0C7E73E2B3003D50032ED77 /* Challenge3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C7E73D2B3003D50032ED77 /* Challenge3.swift */; };
 		D0CE0BC52B48656A001ADA30 /* Challenge5.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CE0BC42B48656A001ADA30 /* Challenge5.swift */; };
 		D0CE0BC72B486573001ADA30 /* Challenge4.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CE0BC62B486573001ADA30 /* Challenge4.swift */; };
+		D0CE0BC92B489694001ADA30 /* Challenge6.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CE0BC82B489694001ADA30 /* Challenge6.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		D0C7E73D2B3003D50032ED77 /* Challenge3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge3.swift; sourceTree = "<group>"; };
 		D0CE0BC42B48656A001ADA30 /* Challenge5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge5.swift; sourceTree = "<group>"; };
 		D0CE0BC62B486573001ADA30 /* Challenge4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge4.swift; sourceTree = "<group>"; };
+		D0CE0BC82B489694001ADA30 /* Challenge6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge6.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				D0C7E73D2B3003D50032ED77 /* Challenge3.swift */,
 				D0CE0BC62B486573001ADA30 /* Challenge4.swift */,
 				D0CE0BC42B48656A001ADA30 /* Challenge5.swift */,
+				D0CE0BC82B489694001ADA30 /* Challenge6.swift */,
 			);
 			path = Chapter1.Strings;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D0CE0BC72B486573001ADA30 /* Challenge4.swift in Sources */,
+				D0CE0BC92B489694001ADA30 /* Challenge6.swift in Sources */,
 				D0C7E73C2B3002480032ED77 /* Challenge2.swift in Sources */,
 				D0C7E73E2B3003D50032ED77 /* Challenge3.swift in Sources */,
 				D0C7E7322B2FFF9E0032ED77 /* main.swift in Sources */,
