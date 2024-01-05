@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		D0C7E7322B2FFF9E0032ED77 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C7E7312B2FFF9E0032ED77 /* main.swift */; };
+		D0C7E73A2B3000200032ED77 /* Challenge1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C7E7392B3000200032ED77 /* Challenge1.swift */; };
+		D0C7E73C2B3002480032ED77 /* Challenge2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C7E73B2B3002480032ED77 /* Challenge2.swift */; };
+		D0C7E73E2B3003D50032ED77 /* Challenge3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C7E73D2B3003D50032ED77 /* Challenge3.swift */; };
+		D0CE0BC52B48656A001ADA30 /* Challenge5.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CE0BC42B48656A001ADA30 /* Challenge5.swift */; };
+		D0CE0BC72B486573001ADA30 /* Challenge4.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CE0BC62B486573001ADA30 /* Challenge4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +30,11 @@
 /* Begin PBXFileReference section */
 		D0C7E72E2B2FFF9E0032ED77 /* Swift_Coding_Challenges_Hudson_2018 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift_Coding_Challenges_Hudson_2018; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0C7E7312B2FFF9E0032ED77 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D0C7E7392B3000200032ED77 /* Challenge1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge1.swift; sourceTree = "<group>"; };
+		D0C7E73B2B3002480032ED77 /* Challenge2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge2.swift; sourceTree = "<group>"; };
+		D0C7E73D2B3003D50032ED77 /* Challenge3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge3.swift; sourceTree = "<group>"; };
+		D0CE0BC42B48656A001ADA30 /* Challenge5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge5.swift; sourceTree = "<group>"; };
+		D0CE0BC62B486573001ADA30 /* Challenge4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +68,21 @@
 			isa = PBXGroup;
 			children = (
 				D0C7E7312B2FFF9E0032ED77 /* main.swift */,
+				D0C7E7382B2FFFA60032ED77 /* Chapter1.Strings */,
 			);
 			path = Swift_Coding_Challenges_Hudson_2018;
+			sourceTree = "<group>";
+		};
+		D0C7E7382B2FFFA60032ED77 /* Chapter1.Strings */ = {
+			isa = PBXGroup;
+			children = (
+				D0C7E7392B3000200032ED77 /* Challenge1.swift */,
+				D0C7E73B2B3002480032ED77 /* Challenge2.swift */,
+				D0C7E73D2B3003D50032ED77 /* Challenge3.swift */,
+				D0CE0BC62B486573001ADA30 /* Challenge4.swift */,
+				D0CE0BC42B48656A001ADA30 /* Challenge5.swift */,
+			);
+			path = Chapter1.Strings;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,7 +143,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0CE0BC72B486573001ADA30 /* Challenge4.swift in Sources */,
+				D0C7E73C2B3002480032ED77 /* Challenge2.swift in Sources */,
+				D0C7E73E2B3003D50032ED77 /* Challenge3.swift in Sources */,
 				D0C7E7322B2FFF9E0032ED77 /* main.swift in Sources */,
+				D0CE0BC52B48656A001ADA30 /* Challenge5.swift in Sources */,
+				D0C7E73A2B3000200032ED77 /* Challenge1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
