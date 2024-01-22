@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D022B74A2B5E0AC600B89A22 /* Challenge11.swift in Sources */ = {isa = PBXBuildFile; fileRef = D022B7492B5E0AC600B89A22 /* Challenge11.swift */; };
 		D0C7E7322B2FFF9E0032ED77 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C7E7312B2FFF9E0032ED77 /* main.swift */; };
 		D0C7E73A2B3000200032ED77 /* Challenge1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C7E7392B3000200032ED77 /* Challenge1.swift */; };
 		D0C7E73C2B3002480032ED77 /* Challenge2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C7E73B2B3002480032ED77 /* Challenge2.swift */; };
@@ -33,6 +34,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		D022B7492B5E0AC600B89A22 /* Challenge11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge11.swift; sourceTree = "<group>"; };
 		D0C7E72E2B2FFF9E0032ED77 /* Swift_Coding_Challenges_Hudson_2018 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift_Coding_Challenges_Hudson_2018; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0C7E7312B2FFF9E0032ED77 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D0C7E7392B3000200032ED77 /* Challenge1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge1.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 				D0CE0BCC2B496CDA001ADA30 /* Challenge8.swift */,
 				D0CE0BCE2B497C59001ADA30 /* Challenge9.swift */,
 				D0CE0BD02B49886B001ADA30 /* Challenge10.swift */,
+				D022B7492B5E0AC600B89A22 /* Challenge11.swift */,
 			);
 			path = Chapter1.Strings;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				D0C7E73C2B3002480032ED77 /* Challenge2.swift in Sources */,
 				D0CE0BCF2B497C59001ADA30 /* Challenge9.swift in Sources */,
 				D0C7E73E2B3003D50032ED77 /* Challenge3.swift in Sources */,
+				D022B74A2B5E0AC600B89A22 /* Challenge11.swift in Sources */,
 				D0CE0BD12B49886B001ADA30 /* Challenge10.swift in Sources */,
 				D0C7E7322B2FFF9E0032ED77 /* main.swift in Sources */,
 				D0CE0BCB2B49673C001ADA30 /* Challenge7.swift in Sources */,
