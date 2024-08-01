@@ -7,4 +7,4 @@
 
 import Foundation
 
-testChallenge12()
+testChallenge13()

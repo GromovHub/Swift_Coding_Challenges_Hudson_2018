@@ -9,7 +9,7 @@
 import Foundation
 
 func testChallenge12() {
-    let args = ["swift switch swill swim", "flip flap flop"]
+//    let args = ["swift switch swill swim", "flip flap flop"]
     let args2 = [("swift switch swill swim","swi"), ("flip flap flop", "fl")]
     
     for i in args2 {
@@ -21,8 +21,8 @@ func func1(arg: String) -> String {
     var result = ""
     var offset = 1
     var gotIt = false
-    var words = arg.split(separator: " ", omittingEmptySubsequences: true)
-    for i in 1...words[0].count {
+    let words = arg.split(separator: " ", omittingEmptySubsequences: true)
+    for _ in 1...words[0].count {
         for j in words {
             if j.contains(String(words[0].prefix(offset))) {
                 gotIt = false

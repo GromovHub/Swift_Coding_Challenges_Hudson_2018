@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		D022B74A2B5E0AC600B89A22 /* Challenge11.swift in Sources */ = {isa = PBXBuildFile; fileRef = D022B7492B5E0AC600B89A22 /* Challenge11.swift */; };
 		D0465C962BFD899400F096C2 /* Challenge12.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0465C952BFD899400F096C2 /* Challenge12.swift */; };
+		D0B9AA232C5BAAB6004BE0BF /* Challenge13.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0B9AA222C5BAAAF004BE0BF /* Challenge13.swift */; };
 		D0C7E7322B2FFF9E0032ED77 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C7E7312B2FFF9E0032ED77 /* main.swift */; };
 		D0C7E73A2B3000200032ED77 /* Challenge1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C7E7392B3000200032ED77 /* Challenge1.swift */; };
 		D0C7E73C2B3002480032ED77 /* Challenge2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C7E73B2B3002480032ED77 /* Challenge2.swift */; };
@@ -37,6 +38,7 @@
 /* Begin PBXFileReference section */
 		D022B7492B5E0AC600B89A22 /* Challenge11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge11.swift; sourceTree = "<group>"; };
 		D0465C952BFD899400F096C2 /* Challenge12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge12.swift; sourceTree = "<group>"; };
+		D0B9AA222C5BAAAF004BE0BF /* Challenge13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge13.swift; sourceTree = "<group>"; };
 		D0C7E72E2B2FFF9E0032ED77 /* Swift_Coding_Challenges_Hudson_2018 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift_Coding_Challenges_Hudson_2018; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0C7E7312B2FFF9E0032ED77 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D0C7E7392B3000200032ED77 /* Challenge1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge1.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				D0CE0BD02B49886B001ADA30 /* Challenge10.swift */,
 				D022B7492B5E0AC600B89A22 /* Challenge11.swift */,
 				D0465C952BFD899400F096C2 /* Challenge12.swift */,
+				D0B9AA222C5BAAAF004BE0BF /* Challenge13.swift */,
 			);
 			path = Chapter1.Strings;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 				D0CE0BCD2B496CDA001ADA30 /* Challenge8.swift in Sources */,
 				D0CE0BC52B48656A001ADA30 /* Challenge5.swift in Sources */,
 				D0C7E73A2B3000200032ED77 /* Challenge1.swift in Sources */,
+				D0B9AA232C5BAAB6004BE0BF /* Challenge13.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,6 +311,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZT525LAF69;
 				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -318,6 +323,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZT525LAF69;
 				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
